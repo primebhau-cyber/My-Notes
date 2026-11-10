@@ -1,9 +1,17 @@
 # My-Notes
-My first GitHub repository.
-My Notes
+# My Notes
 
-This is my first GitHub repository.
+Welcome to my GitHub Notes Repository.
 
-I am learning GitHub and programming.
+## About
+This repository contains my personal notes and learning materials.
 
-I will save my notes and projects here.
+## Topics
+- HTML
+- CSS
+- JavaScript
+- Programming
+- Technology
+
+## Goal
+Learning something new every day!
